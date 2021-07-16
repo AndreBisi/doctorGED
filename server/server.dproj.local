@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/22 15:27:56.000.854,=D:\myProjects\doctorGED\server\js\base64-min.js</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.825,=D:\myProjects\doctorGED\server\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.943,=D:\myProjects\doctorGED\server\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.927,=D:\myProjects\doctorGED\server\css\main.css</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.846,=D:\myProjects\doctorGED\server\js\serverfunctions.js</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.686,=D:\myProjects\doctorGED\server\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.863,=D:\myProjects\doctorGED\server\js\json2-min.js</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.960,=D:\myProjects\doctorGED\server\templates\reversestring.html</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.885,=D:\myProjects\doctorGED\server\js\callbackframework-min.js</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.997,=D:\myProjects\doctorGED\server\images\collapse.png</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.578,=D:\myProjects\doctorGED\server\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.874,=D:\myProjects\doctorGED\server\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.912,=D:\myProjects\doctorGED\server\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.808,=D:\myProjects\doctorGED\server\js\base64.js</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.838,=D:\myProjects\doctorGED\server\js\callbackframework.js</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.416,=D:\myProjects\doctorGED\server\FormUnit1.pas</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.898,=D:\myProjects\doctorGED\server\js\connection.js</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.831,=D:\myProjects\doctorGED\server\js\json2.js</Transaction>
+    <Transaction>2021/06/22 15:27:56.000.978,=D:\myProjects\doctorGED\server\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2021/06/22 15:27:57.000.017,=D:\myProjects\doctorGED\server\images\expand.png</Transaction>
+    <Transaction>2021/06/22 15:28:19.000.047,D:\myProjects\doctorGED\server\FormUnit1.dfm=D:\myProjects\doctorGED\server\uMain_Server.dfm</Transaction>
+    <Transaction>2021/06/22 15:28:19.000.047,D:\myProjects\doctorGED\server\FormUnit1.pas=D:\myProjects\doctorGED\server\uMain_Server.pas</Transaction>
+    <Transaction>2021/06/22 15:28:24.000.275,D:\myProjects\doctorGED\server\WebModuleUnit1.dfm=D:\myProjects\doctorGED\server\uWM.dfm</Transaction>
+    <Transaction>2021/06/22 15:28:24.000.275,D:\myProjects\doctorGED\server\WebModuleUnit1.pas=D:\myProjects\doctorGED\server\uWM.pas</Transaction>
+    <Transaction>2021/06/22 15:28:26.000.859,D:\myProjects\doctorGED\server\ServerMethodsUnit1.dfm=D:\myProjects\doctorGED\server\uSM.dfm</Transaction>
+    <Transaction>2021/06/22 15:28:26.000.859,D:\myProjects\doctorGED\server\ServerMethodsUnit1.pas=D:\myProjects\doctorGED\server\uSM.pas</Transaction>
+    <Transaction>2021/06/22 15:33:10.000.620,=D:\myProjects\doctorGED\server\Unit1.pas</Transaction>
+    <Transaction>2021/06/22 15:34:30.000.508,D:\myProjects\doctorGED\server\Unit1.dfm=D:\myProjects\doctorGED\server\uDM.dfm</Transaction>
+    <Transaction>2021/06/22 15:34:30.000.508,D:\myProjects\doctorGED\server\Unit1.pas=D:\myProjects\doctorGED\server\uDM.pas</Transaction>
+    <Transaction>2021/06/22 15:40:44.000.955,=D:\myProjects\doctorGED\server\Unit1.pas</Transaction>
+    <Transaction>2021/06/22 15:41:20.000.460,D:\myProjects\doctorGED\server\Unit1.pas=D:\myProjects\doctorGED\class\uCaixa.pas</Transaction>
+    <Transaction>2021/06/22 16:06:41.000.567,=D:\myProjects\Common\Utils\Server.Utils.pas</Transaction>
+  </Transactions>
+</BorlandProject>

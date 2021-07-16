@@ -1,0 +1,21 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 407
+  Width = 374
+  object conexao: TFDConnection
+    Params.Strings = (
+      'Database=DBDoctorGED'
+      'User_Name=postgres'
+      'Password=porcos128'
+      'Server=192.165.0.252'
+      'Port=5435'
+      'DriverID=pG')
+    Left = 88
+    Top = 56
+  end
+  object qryAux: TFDQuery
+    Connection = conexao
+    Left = 168
+    Top = 65
+  end
+end
